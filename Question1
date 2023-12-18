@@ -1,6 +1,6 @@
 using System;
 
-public class Questionone
+public class Question1
 {
     public static void Main()
     {
